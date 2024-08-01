@@ -20,8 +20,8 @@ This project is a Django application designed to manage user profiles and provid
 
 1. **Clone the Repository:**
     ```bash
-    git clone (https://github.com/guru654321/task.git)
-    cd task
+    git clone https://github.com/guru654321/task.git
+    cd banao
     ```
 
 2. **Create a Virtual Environment:**
@@ -30,15 +30,7 @@ This project is a Django application designed to manage user profiles and provid
     ```
 
 3. **Activate the Virtual Environment:**
-    - On Windows:
-        ```bash
-        venv\Scripts\activate
-        ```
-    - On macOS/Linux:
-        ```bash
-        source venv/bin/activate
-        ```
-
+   myenv\Scripts\activate
 4. **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
