@@ -20,8 +20,8 @@ This project is a Django application designed to manage user profiles and provid
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
-    cd your-repository-name
+    git clone (https://github.com/guru654321/task.git)
+    cd task
     ```
 
 2. **Create a Virtual Environment:**
